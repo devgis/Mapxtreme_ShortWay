@@ -1,0 +1,11 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 4
+    KEY Decimal (11, 0) ;
+    FNODE Decimal (11, 0) ;
+    TNODE Decimal (11, 0) ;
+    LENGTH Float ;

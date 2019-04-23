@@ -1,0 +1,11 @@
+bin\Debug\ShortWay.exe.config
+bin\Debug\ShortWay.exe
+bin\Debug\ShortWay.pdb
+bin\Debug\ZhongMing.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShortWay.Properties.Resources.resources
+obj\Debug\ShortWay.csproj.GenerateResource.Cache
+obj\Debug\ShortWay.exe
+obj\Debug\ShortWay.pdb
+obj\Debug\ShortWay.GetNode.resources
+obj\Debug\ShortWay.ShortWay.resources
