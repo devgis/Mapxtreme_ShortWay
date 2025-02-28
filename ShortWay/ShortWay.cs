@@ -706,7 +706,12 @@ namespace Devgis.ShortWay
             {
                 PublicDim.ShowErrorMessage("没有可通达的最短路径！");
             }
+            else
+            {
+                //var Envelope=Session.Current.Selections.DefaultSelection.Envelope
+                this.mapControl1.Map.Bounds =Session.Current.Selections.DefaultSelection.Envelope.Bounds;
 
+            }
             #endregion
         }
 
@@ -948,12 +953,13 @@ namespace Devgis.ShortWay
         /// <param name="ToNodeID"></param>
         private void SelectRoad(int FromNodeID, int ToNodeID)
         {
-            String sWhere = "(FNODE=" + FromNodeID + " And TNODE=" + ToNodeID + ") or (FNODE=" + ToNodeID + " And TNODE=" + FromNodeID + ")";
-            Table tableRoad = Session.Current.Catalog.GetTable("RoadChina");
-            SearchInfo siWhere = MapInfo.Data.SearchInfoFactory.SearchWhere(sWhere);
-            IResultSetFeatureCollection ifs = MapInfo.Engine.Session.Current.Catalog.Search(tableRoad, siWhere);
-            Session.Current.Selections.DefaultSelection.Add(ifs);
-            System.Threading.Thread.Sleep(50);
+            SelectRoad(FromNodeID.ToString(), ToNodeID.ToString());
+            //String sWhere = "(FNODE=" + FromNodeID + " And TNODE=" + ToNodeID + ") or (FNODE=" + ToNodeID + " And TNODE=" + FromNodeID + ")";
+            //Table tableRoad = Session.Current.Catalog.GetTable("RoadChina");
+            //SearchInfo siWhere = MapInfo.Data.SearchInfoFactory.SearchWhere(sWhere);
+            //IResultSetFeatureCollection ifs = MapInfo.Engine.Session.Current.Catalog.Search(tableRoad, siWhere);
+            //Session.Current.Selections.DefaultSelection.Add(ifs);
+            //System.Threading.Thread.Sleep(50);
         }
 
         /// <summary>
@@ -967,7 +973,9 @@ namespace Devgis.ShortWay
             Table tableRoad = Session.Current.Catalog.GetTable("RoadChina");
             SearchInfo siWhere = MapInfo.Data.SearchInfoFactory.SearchWhere(sWhere);
             IResultSetFeatureCollection ifs = MapInfo.Engine.Session.Current.Catalog.Search(tableRoad, siWhere);
+            //this.mapControl1.Map.Center = ifs[0].Geometry.Centroid;
             Session.Current.Selections.DefaultSelection.Add(ifs);
+
             System.Threading.Thread.Sleep(50);
         }
 
