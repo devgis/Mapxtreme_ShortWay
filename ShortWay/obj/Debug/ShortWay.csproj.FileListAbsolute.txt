@@ -1,0 +1,11 @@
+E:\Github\Mapxtreme_ShortWay\Realease\ShortWay.exe.config
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\ShortWay.exe
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\ShortWay.pdb
+E:\Github\Mapxtreme_ShortWay\Realease\ShortWay.exe
+E:\Github\Mapxtreme_ShortWay\Realease\ShortWay.pdb
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\ShortWay.csprojResolveAssemblyReference.cache
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\Devgis.ShortWay.ShortWay.resources
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\Devgis.ShortWay.GetNode.resources
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\Devgis.ShortWay.Properties.Resources.resources
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\Devgis.ShortWay.ShowDetail.resources
+E:\Github\Mapxtreme_ShortWay\ShortWay\obj\Debug\ShortWay.csproj.GenerateResource.Cache

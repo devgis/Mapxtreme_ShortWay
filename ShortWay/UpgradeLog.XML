@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ShortWay">
+</Property><Property Name="解决方案文件" Value="E:\Github\Mapxtreme_ShortWay\ShortWay\ShortWay.sln">
+</Property><Property Name="用户选项文件" Value="E:\Github\Mapxtreme_ShortWay\ShortWay\ShortWay.suo">
+</Property><Property Name="Date" Value="2025-02-28">
+</Property><Property Name="Time" Value="16:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ShortWay.sln" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShortWay.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ShortWay.suo" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShortWay.suo">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShortWay.csproj" Description="项目文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShortWay.csproj">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Dijkstra.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Dijkstra.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="MapPath.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\MapPath.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="PublicDim.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\PublicDim.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="RoadInfo.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\RoadInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShortWay.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShortWay.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="GetNode.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\GetNode.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="GetNode.Designer.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\GetNode.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Graph.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Graph.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Program.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShowDetail.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShowDetail.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShowDetail.Designer.cs" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShowDetail.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Properties\Settings.settings" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="App.config" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShortWay.resx" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShortWay.resx">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="GetNode.resx" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\GetNode.resx">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="Properties\Resources.resx" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShowDetail.resx" Description="文件已成功备份为 E:\Github\Mapxtreme_ShortWay\ShortWay\Backup\ShowDetail.resx">
+</Event><Event ErrorLevel="1" Project="ShortWay" Source="ShortWay.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShortWay.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ShortWay" Source="ShortWay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ShortWay.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="ShortWay.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShortWay" Source="ShortWay.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
